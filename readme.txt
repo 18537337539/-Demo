@@ -5,3 +5,4 @@ This is the third change
 Undo
 Tomorrow
 Branch
+MasterConflict
